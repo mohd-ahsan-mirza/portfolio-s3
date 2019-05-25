@@ -1,5 +1,3 @@
-
-
 $(function() {
 
 	$(".input-submit").click(function(event){
