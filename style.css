@@ -4885,7 +4885,7 @@
 }
 
 .carousel-indicators{
-	bottom: 0 !important;
+	bottom: default !important;
 }
 
 .carousel-indicators li{
