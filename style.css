@@ -4792,7 +4792,7 @@
 }
 
 .skills{
-	min-height:600px;
+	min-height:650px;
 	background-color: whitesmoke;
 	height:100%;
 	width:100%;
@@ -4810,6 +4810,7 @@
 }
 
 .skills-detail-link-section{
+	margin-top:10px;
 	width:100%;
 	min-width:100%;
 	max-width:100%;
