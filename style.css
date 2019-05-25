@@ -4821,6 +4821,7 @@
 	min-width:100%;
 	max-width:100%;
 	min-width:100%;
+	z-index: 1;
 }
 .skills-detail-link-section span{
 	min-width:100%;
