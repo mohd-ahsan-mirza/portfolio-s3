@@ -4883,7 +4883,7 @@
 }
 
 .carousel-indicators{
-	bottom: 20px;
+	bottom: -20px;
 }
 
 .carousel-indicators li{
