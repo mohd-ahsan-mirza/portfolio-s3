@@ -4882,6 +4882,10 @@
 	font-size:18px;
 }
 
+.carousel-indicators{
+	bottom: 20px;
+}
+
 .carousel-indicators li{
 	background-color: #4d4d4d !important;
 }
